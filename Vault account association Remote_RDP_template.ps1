@@ -1,6 +1,6 @@
 # Define the API credentials
 $tokenUrl = "https://[yourURL]/oauth2/token"
-$baseUrl = "https://[yourURL]/api" #note the backup api URL is different to config API URL
+$baseUrl = "https://[yourURL]/api/config/v1" #note the backup api URL is different to config API URL
 $client_id = "--"   # Replace with your actual client ID
 $secret = "--"         # Replace with your actual secret
 
